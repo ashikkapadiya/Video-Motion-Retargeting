@@ -2,8 +2,8 @@
 - It require 3 components. skeleton extraction, motion retargeting on skeleton and skeleton to video rendering.
 - Copy_of_OpenPose.ipynb gives skeleton output in json format stating keypoints of human pose.
 - 2d_motion_retargeting.ipynb[1] takes source and target json files as input to give retargeted skeleton.
-
 <br />
+
 **Output** <br /> https://drive.google.com/drive/folders/1BkvjYMq2YF4z_7i5KMaCz0ASxnBGF_MN?usp=sharing
 <br />
 
