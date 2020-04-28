@@ -1,0 +1,4 @@
+- Video Motion Retargeting transfer motion from source video to target video. 
+- It require 3 components. skeleton extraction, motion retargeting on skeleton and skeleton to video rendering.
+- Copy_of_OpenPose.ipynb gives skeleton output in json format stating keypoints of human pose.
+- 2d_motion_retargeting.ipynb takes source and target json files as input to give retargeted skeleton.
